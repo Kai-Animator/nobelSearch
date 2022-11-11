@@ -1,0 +1,22 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+#slider {
+    height: 15px;
+}
+
+#slider .noUi-connect {
+    background: #FFD369;
+}
+
+
+
+#slider .noUi-handle {
+    height: 20px;
+    width: 30px;
+    top: 5px;
+    right: -15px;
+    border-radius: 9px;
+}
+
